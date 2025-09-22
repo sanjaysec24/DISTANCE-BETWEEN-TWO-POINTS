@@ -10,10 +10,17 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
 ### Step 5: 
 ### PROGRAM:
-  
-
-
+```
+# Developed by: sanjay kumar B
+# Register no: 212224230242
+import math
+x1,x2=10,4
+y1,y2=6,2
+d=math.sqrt((x2-x1)**2+(y2-y1)**2)
+print(round(d,2))
+```
 ### OUTPUT:
+<img width="894" height="302" alt="image" src="https://github.com/user-attachments/assets/4688324d-d24b-4d08-9726-e068adf4524b" />
 
 
 ### RESULT:
